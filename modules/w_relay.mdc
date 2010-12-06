@@ -1,0 +1,58 @@
+PCBNEW-LibDoc----V1  ven 05 mar 2010 11:52:03 CET
+#
+$MODULE relay_DK1a
+Li relay_DK1a
+Cd relay, DK series
+$EndMODULE
+#
+$MODULE relay_DK1a-L2
+Li relay_DK1a-L2
+Cd relay, DK series
+$EndMODULE
+#
+$MODULE relay_DK1a1b
+Li relay_DK1a1b
+Cd relay, DK series
+$EndMODULE
+#
+$MODULE relay_DK1a1b-L2
+Li relay_DK1a1b-L2
+Cd relay, DK series
+$EndMODULE
+#
+$MODULE relay_DK2a
+Li relay_DK2a
+Cd relay, DK series
+$EndMODULE
+#
+$MODULE relay_DK2a-L2
+Li relay_DK2a-L2
+Cd relay, DK series
+$EndMODULE
+#
+$MODULE relay_hb
+Li relay_hb
+Cd relay, HB series
+$EndMODULE
+#
+$MODULE relay_PE
+Li relay_PE
+Cd relay, PE series
+$EndMODULE
+#
+$MODULE relay_SY
+Li relay_SY
+Cd relay, SY series
+$EndMODULE
+#
+$MODULE relay_V23042
+Li relay_V23042
+Cd relay, V23042 series
+$EndMODULE
+#
+$MODULE relay_V23042-B2
+Li relay_V23042-B2
+Cd relay, V23042-B2 series
+$EndMODULE
+#
+$EndLIBDOC

@@ -1,38 +1,82 @@
-PCBNEW-LibDoc----V1  18/7/2008-09:34:37
+PCBNEW-LibDoc----V1  ven 05 mar 2010 11:03:42 CET
 #
-$MODULE CPA_5x11MM
-Li CPA_5x11MM
-Cd capacitor pol, axial 5x11mm
+$MODULE cnp_3mm_disc
+Li cnp_3mm_disc
+Cd Small ceramic capacitor
+Kw C
 $EndMODULE
 #
-$MODULE CPA_6x11MM
-Li CPA_6x11MM
-Cd capacitor pol, axial 6x11mm
+$MODULE cnp_6mm_disc
+Li cnp_6mm_disc
+Cd 6mm disc ceramic capacitor
+Kw C
 $EndMODULE
 #
-$MODULE CPA_8x21MM
-Li CPA_8x21MM
-Cd capacitor pol, axial 8x21mm
+$MODULE cnp_7.5mm_disc
+Li cnp_7.5mm_disc
+Cd 7.5mm disc ceramic capacitor
+Kw C
 $EndMODULE
 #
-$MODULE CPA_13x31MM
-Li CPA_13x31MM
-Cd capacitor pol, axial 13x31mm
+$MODULE cnp_7x2mm
+Li cnp_7x2mm
+Cd Capacitor non pol, 7x2,5mm
 $EndMODULE
 #
-$MODULE CPA_16x31MM
-Li CPA_16x31MM
-Cd capacitor pol, axial 16x31mm
+$MODULE cnp_7x4.5mm
+Li cnp_7x4.5mm
+Cd Capacitor non pol, 7x4,5mm
 $EndMODULE
 #
-$MODULE CPA_16x40MM
-Li CPA_16x40MM
-Cd capacitor pol, axial 16x40mm
+$MODULE cnp_7x6mm
+Li cnp_7x6mm
+Cd Capacitor non pol, 7x6mm
 $EndMODULE
 #
-$MODULE CP_16x25mm
-Li CP_16x25mm
-Cd Capacitor, pol, cyl 16x25mm
+$MODULE cnp_12mm_disc
+Li cnp_12mm_disc
+Cd 12mm disc ceramic capacitor
+Kw C
+$EndMODULE
+#
+$MODULE cnp_13x4mm
+Li cnp_13x4mm
+Cd Capacitor non pol, 13x4mm
+$EndMODULE
+#
+$MODULE cnp_18x5mm
+Li cnp_18x5mm
+Cd Capacitor non pol, 18x5mm
+$EndMODULE
+#
+$MODULE cnp_18x6mm
+Li cnp_18x6mm
+Cd Capacitor non pol, 18x6mm
+$EndMODULE
+#
+$MODULE cnp_18x8mm
+Li cnp_18x8mm
+Cd cap non pol, 18x8mm
+$EndMODULE
+#
+$MODULE CP_35x51mm
+Li CP_35x51mm
+Cd Capacitor, pol, cyl 35x51mm
+$EndMODULE
+#
+$MODULE CP_30x51mm
+Li CP_30x51mm
+Cd Capacitor, pol, cyl 30x51mm
+$EndMODULE
+#
+$MODULE CP_26x45mm
+Li CP_26x45mm
+Cd Capacitor, pol, cyl 26x45mm
+$EndMODULE
+#
+$MODULE CP_26x31mm
+Li CP_26x31mm
+Cd Capacitor, pol, cyl 26x31mm
 $EndMODULE
 #
 $MODULE CP_22x41mm
@@ -40,14 +84,19 @@ Li CP_22x41mm
 Cd Capacitor, pol, cyl 22x41mm
 $EndMODULE
 #
-$MODULE CP_13x21mm
-Li CP_13x21mm
-Cd Capacitor, pol, cyl 13x21mm
+$MODULE CP_16x25mm
+Li CP_16x25mm
+Cd Capacitor, pol, cyl 16x25mm
 $EndMODULE
 #
 $MODULE CP_13x25mm
 Li CP_13x25mm
 Cd Capacitor, pol, cyl 13x25mm
+$EndMODULE
+#
+$MODULE CP_13x21mm
+Li CP_13x21mm
+Cd Capacitor, pol, cyl 13x21mm
 $EndMODULE
 #
 $MODULE CP_10x25mm
@@ -90,77 +139,34 @@ Li CP_5x6mm
 Cd Capacitor, pol, cyl 5x6mm
 $EndMODULE
 #
-$MODULE CP_26x31mm
-Li CP_26x31mm
-Cd Capacitor, pol, cyl 26x31mm
+$MODULE CPA_16x40MM
+Li CPA_16x40MM
+Cd capacitor pol, axial 16x40mm
 $EndMODULE
 #
-$MODULE CP_26x45mm
-Li CP_26x45mm
-Cd Capacitor, pol, cyl 26x45mm
+$MODULE CPA_16x31MM
+Li CPA_16x31MM
+Cd capacitor pol, axial 16x31mm
 $EndMODULE
 #
-$MODULE CP_30x51mm
-Li CP_30x51mm
-Cd Capacitor, pol, cyl 30x51mm
+$MODULE CPA_13x31MM
+Li CPA_13x31MM
+Cd capacitor pol, axial 13x31mm
 $EndMODULE
 #
-$MODULE CP_35x51mm
-Li CP_35x51mm
-Cd Capacitor, pol, cyl 35x51mm
+$MODULE CPA_8x21MM
+Li CPA_8x21MM
+Cd capacitor pol, axial 8x21mm
 $EndMODULE
 #
-$MODULE cnp_18x8mm
-Li cnp_18x8mm
-Cd cap non pol, 18x8mm
+$MODULE CPA_6x11MM
+Li CPA_6x11MM
+Cd capacitor pol, axial 6x11mm
 $EndMODULE
 #
-$MODULE cnp_3mm_disc
-Li cnp_3mm_disc
-Cd Small ceramic capacitor
-Kw C
-$EndMODULE
-#
-$MODULE cnp_7x2mm
-Li cnp_7x2mm
-Cd Capacitor non pol, 7x2,5mm
-$EndMODULE
-#
-$MODULE cnp_7x4.5mm
-Li cnp_7x4.5mm
-Cd Capacitor non pol, 7x4,5mm
-$EndMODULE
-#
-$MODULE cnp_7x6mm
-Li cnp_7x6mm
-Cd Capacitor non pol, 7x6mm
-$EndMODULE
-#
-$MODULE cnp_13x4mm
-Li cnp_13x4mm
-Cd Capacitor non pol, 13x4mm
-$EndMODULE
-#
-$MODULE cnp_18x5mm
-Li cnp_18x5mm
-Cd Capacitor non pol, 18x5mm
-$EndMODULE
-#
-$MODULE cnp_18x6mm
-Li cnp_18x6mm
-Cd Capacitor non pol, 18x6mm
-$EndMODULE
-#
-$MODULE cnp_6mm_disc
-Li cnp_6mm_disc
-Cd 6mm disc ceramic capacitor
-Kw C
-$EndMODULE
-#
-$MODULE cnp_7.5mm_disc
-Li cnp_7.5mm_disc
-Cd 7.5mm disc ceramic capacitor
-Kw C
+$MODULE CPA_5x11MM
+Li CPA_5x11MM
+Cd capacitor pol, axial 5x11mm
 $EndMODULE
 #
 $EndLIBDOC

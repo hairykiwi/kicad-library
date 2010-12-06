@@ -1,9 +1,30 @@
-PCBNEW-LibDoc----V1  mer 12 ago 2009 14:13:59 CEST
+PCBNEW-LibDoc----V1  ven 05 mar 2010 11:48:52 CET
 #
 $MODULE trimmer_64w
 Li trimmer_64w
-Cd trimmer, multiturn cermet, 64W
+Cd trimmer, multiturn cermet, shape 64W
 Kw trimmer
+$EndMODULE
+#
+$MODULE rc_vert_26x14x10
+Li rc_vert_26x14x10
+Cd ceramic power resistor, vertical, 26,5mm
+$EndMODULE
+#
+$MODULE rc07_vert
+Li rc07_vert
+Cd Resistor, RC07 vertical
+$EndMODULE
+#
+$MODULE RC07
+Li RC07
+Cd Resistor, RC07
+Kw R
+$EndMODULE
+#
+$MODULE rc05_vert
+Li rc05_vert
+Cd Resistor, RC05 vertical
 $EndMODULE
 #
 $MODULE RC05
@@ -12,9 +33,15 @@ Cd Resistor, RC05
 Kw R
 $EndMODULE
 #
-$MODULE rc05_vert
-Li rc05_vert
-Cd Resistor, RC05 vertical
+$MODULE rc03_vert
+Li rc03_vert
+Cd Resistor, RC03 vertical
+$EndMODULE
+#
+$MODULE RC03
+Li RC03
+Cd Resistor, RC03
+Kw R
 $EndMODULE
 #
 $MODULE r-sil_9
@@ -27,33 +54,6 @@ $MODULE r-sil_5
 Li r-sil_5
 Cd R-net, sil package, 5pin
 Kw CONN DEV
-$EndMODULE
-#
-$MODULE RC03
-Li RC03
-Cd Resistor, RC03
-Kw R
-$EndMODULE
-#
-$MODULE RC07
-Li RC07
-Cd Resistor, RC07
-Kw R
-$EndMODULE
-#
-$MODULE rc_vert_26x14x10
-Li rc_vert_26x14x10
-Cd ceramic power resistor, vertical, 26.5mm
-$EndMODULE
-#
-$MODULE rc03_vert
-Li rc03_vert
-Cd Resistor, RC03 vertical
-$EndMODULE
-#
-$MODULE rc07_vert
-Li rc07_vert
-Cd Resistor, RC07 vertical
 $EndMODULE
 #
 $EndLIBDOC
