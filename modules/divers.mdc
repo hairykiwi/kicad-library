@@ -1,4 +1,4 @@
-PCBNEW-LibDoc----V1  12/03/2009 16:25:39
+PCBNEW-LibDoc----V1  19/03/2010 15:05:21
 #
 $MODULE pin_array_8x2
 Li pin_array_8x2
@@ -30,12 +30,6 @@ Cd TCXO
 Kw TCXO
 $EndMODULE
 #
-$MODULE JACK_ALIM
-Li JACK_ALIM
-Cd module 1 pin (ou trou mecanique de percage)
-Kw CONN JACK
-$EndMODULE
-#
 $MODULE OPTORESISTOR_NSL-32
 Li OPTORESISTOR_NSL-32
 Cd Module Dil 6 pins, pads elliptiques
@@ -51,6 +45,16 @@ $MODULE 1pin
 Li 1pin
 Cd module 1 pin (ou trou mecanique de percage)
 Kw DEV
+$EndMODULE
+#
+$MODULE LL1587
+Li LL1587
+Cd AUDIO TRANFO LUNDAHL
+$EndMODULE
+#
+$MODULE RJ45_TRANSFO
+Li RJ45_TRANSFO
+Kw RJ45
 $EndMODULE
 #
 $EndLIBDOC
